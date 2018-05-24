@@ -10,4 +10,4 @@ Simulation code and data accompanying the journal paper on TwoA.
 "script.R" : R script to analyze data and plot graphs <br />
 "commonCode.R" : helper code used by "script.R" <br />
 
-Download DATA from http://bcogs.net/models/TwoA/TileZero_123tje_data.rar 
+Download DATA from http://bcogs.net/software/data/TwoA/TileZero_123tje_data.rar 
